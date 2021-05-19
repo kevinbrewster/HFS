@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HFSKit",
+        "repositoryURL": "https://github.com/kevinbrewster/HFSKit.git",
+        "state": {
+          "branch": "main",
+          "revision": "e24209e5133163b63c332df5c9c7c0a92c65b5a6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
